@@ -9,6 +9,12 @@
 - 💻 Want to be a multiplatform developer
 - 🧑‍💻 Training in flutter
 
+&nbsp;&nbsp;
+[![website](https://github.com/KhalidFinny/KhalidFinny/blob/main/instagram-dark.svg)](https://www.instagram.com/khaaleeeeed/#gh-light-mode-only)
+[![website](https://github.com/KhalidFinny/KhalidFinny/blob/main/instagram-light%20(1).svg)](https://www.instagram.com/khaaleeeeed/#gh-dark-mode-only)
+
+[Instagram]: https://www.instagram.com/khaaleeeeed/
+
   
 <!---
 KhalidFinny/KhalidFinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
