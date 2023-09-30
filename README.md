@@ -9,11 +9,17 @@
 - 💻 Want to be a multiplatform developer
 - 🧑‍💻 Training in flutter
 
+### Contact me at
+
 &nbsp;&nbsp;
-[![website](https://github.com/KhalidFinny/KhalidFinny/blob/main/instagram-dark.svg)](https://www.instagram.com/khaaleeeeed/#gh-light-mode-only)
-[![website](https://github.com/KhalidFinny/KhalidFinny/blob/main/instagram-light%20(1).svg)](https://www.instagram.com/khaaleeeeed/#gh-dark-mode-only)
+[![website](https://github.com/KhalidFinny/KhalidFinny/blob/main/Instagram.svg%20(1).webp)](https://www.instagram.com/khaaleeeeed) 
+
+&nbsp;&nbsp;
+[![website](https://github.com/KevinASaputra/KevinASaputra/blob/main/img/twitter-dark.svg)](https://twitter.com/Skidbuu1#gh-dark-mode-only)
+[![website](https://github.com/KevinASaputra/KevinASaputra/blob/main/img/twitter-light.svg)](https://twitter.com/Skidbuu1#gh-light-mode-only)
 
 [Instagram]: https://www.instagram.com/khaaleeeeed/
+[Twitter]: https://twitter.com/Skidbuu1
 
   
 <!---
