@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @KhalidFinny
 - 👀 I’m interested in all things technology and videography
-- 🌱 I’m currently learning Java, and dart
+- 🌱 I’m currently laerning on everything
 - 📽️ Doing videography on the side
 - 💞️ I’m still learning
 - 📫 How to reach me @ffiinn.yy on ig
