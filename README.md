@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java, and dart
 - 📽️ Doing videography on the side
 - 💞️ I’m still learning
-- 📫 How to reach me @khaaleeeeed on ig
+- 📫 How to reach me @ffiinn.yy on ig
 - 💻 Want to be a multiplatform developer
 - 🧑‍💻 Training in flutter
 
