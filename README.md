@@ -6,8 +6,8 @@
 - 📽️ Doing videography on the side
 - 💞️ I’m still learning
 - 📫 How to reach me @ffiinn.yy on ig
-- 💻 Want to be a multiplatform developer
-- 🧑‍💻 Training in flutter
+- 💻 Aspiring ot be Motorsport Data Analyst for Team strategies
+- 🧑‍💻 Training in Data Analyst and Front-End
 
 ### Contact me at
 
