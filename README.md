@@ -1,229 +1,168 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              ANIMATED HEADER                       -->
-<!-- ═══════════════════════════════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--   CAPSULE RENDER — cylinder type, warm cream/white/gold   -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=KHALID&fontSize=100&fontColor=c084fc&fontAlignY=55&desc=Full+Stack+·+Creative+·+Vroom+Vroom&descSize=18&descAlign=50&descAlignY=75&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f5f0e8,50:ede8dc,100:f5f0e8&height=180&section=header&text=KHALID&fontSize=88&fontColor=1a1a1a&fontAlignY=55&desc=Full+Stack+·+Creative+·+Vroom+Vroom&descSize=15&descAlignY=78&descAlign=50&descColor=5a5a5a&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              TYPING ANIMATION                      -->
-<!-- ═══════════════════════════════════════════════════ -->
-
+<!-- TYPING — light background, dark ink, gold accent -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+%26+UI%2FUX+Designer;Videographer+%7C+Photographer+%7C+ML+Explorer;Applied+Informatics+%40+Polinema+%F0%9F%87%AE%F0%9F%87%A9;if+it+doesn't+look+good%2C+it+doesn't+ship.;The+Flying+Finn+would+be+proud+%F0%9F%8F%8E%EF%B8%8F" alt="typing" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              SOCIAL LINKS                          -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-finny.pages.dev-7c3aed?style=for-the-badge&labelColor=0a0a0f)](https://finny.pages.dev)
-[![Instagram](https://img.shields.io/badge/◈_IG-ffiinn.yy-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f)](https://instagram.com/ffiinn.yy)
-[![LinkedIn](https://img.shields.io/badge/◈_IN-KhalidAtthoriq-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/KhalidAtthoriq)
-[![Mail](https://img.shields.io/badge/◈_MAIL-katthoriq@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:katthoriq@gmail.com)
-
-![Visitors](https://komarev.com/ghpvc/?username=KhalidFinny&style=for-the-badge&color=7c3aed&label=VISITORS&abbreviated=true)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=21&duration=3200&pause=900&color=1a1a1a&background=00000000&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%26+UI%2FUX+Designer;Videographer+·+Photographer+·+ML+Explorer;Applied+Informatics+%40+Polinema+%F0%9F%87%AE%F0%9F%87%A9;Play+like+you're+in+first.+Train+like+you're+in+second.;The+Flying+Finn+would+be+proud+%F0%9F%8F%8E%EF%B8%8F" alt="typing" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              SYSTEM INFO                           -->
-<!-- ═══════════════════════════════════════════════════ -->
+<div align="center">
 
-```javascript
-const khalid = {
-  name      : "Muhammad Khalid Atthoriq",
-  alias     : "KhalidFinny",
-  location  : "Malang, Indonesia 🇮🇩",
-  studying  : "Applied Informatics @ Polinema",
-  roles     : ["Full Stack Dev", "UI/UX Designer", "Videographer", "ML Explorer"],
-  obsession : "🚗 cars, always cars",
-  status    : "🟢 open to collabs & opportunities",
-  contact   : "katthoriq@gmail.com",
-  motto     : "if it doesn't look good, it doesn't ship."
-};
+[![Portfolio](https://img.shields.io/badge/◈%20PORTFOLIO-finny.pages.dev-1a1a1a?style=flat-square&labelColor=c9a84c&color=1a1a1a)](https://finny.pages.dev)&nbsp;
+[![Instagram](https://img.shields.io/badge/◈%20INSTAGRAM-ffiinn.yy-1a1a1a?style=flat-square&labelColor=e8d5b0&color=1a1a1a)](https://instagram.com/ffiinn.yy)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LINKEDIN-KhalidAtthoriq-1a1a1a?style=flat-square&labelColor=e8d5b0&color=1a1a1a)](https://linkedin.com/in/KhalidAtthoriq)&nbsp;
+[![Email](https://img.shields.io/badge/◈%20EMAIL-katthoriq@gmail.com-1a1a1a?style=flat-square&labelColor=e8d5b0&color=1a1a1a)](mailto:katthoriq@gmail.com)
+
+![Visitors](https://komarev.com/ghpvc/?username=KhalidFinny&style=flat-square&color=c9a84c&label=VISITORS&abbreviated=true)
+
+</div>
+
+---
+
+## ── DRIVER PROFILE ───────────────────────────────────────
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   № 01   Muhammad Khalid Atthoriq  ·  alias: KhalidFinny   │
+│                                                             │
+│   BASE    →  Malang, Indonesia 🇮🇩                          │
+│   SEAT    →  Applied Informatics, Polinema                  │
+│   TEAM    →  Frontend · Backend · Design · Motion           │
+│   RPM     →  always at redline                              │
+│   STATUS  →  🟡  qualifying — open to opportunities         │
+│                                                             │
+│   CONTACT →  katthoriq@gmail.com                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              SKILLS — skillicons.dev               -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🛠 THE STACK
+## ── THE STACK ────────────────────────────────────────────
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
 
 **LANGUAGES**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark&perline=7"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=light&perline=7"/></a>
 
-</td>
-<td align="center" width="50%">
+**FRAMEWORKS & BUILD**
 
-**FRAMEWORKS**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,laravel,svelte,astro,tailwind,vite&theme=light&perline=7"/></a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,laravel,svelte,astro,tailwind,vite&theme=dark&perline=7"/></a>
+**DATA**
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**DATA & BACKEND**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,postgres,python&theme=dark&perline=7"/></a>
-
-</td>
-<td align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=light&perline=7"/></a>
 
 **CREATIVE & TOOLS**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,git,github,vscode&theme=dark&perline=7"/></a>
-
-</td>
-</tr>
-</table>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,git,github,vscode&theme=light&perline=7"/></a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              GITHUB STATS                          -->
-<!--   github-readme-stats + donut layout (rare)        -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 📊 GITHUB DATA
+## ── SPLIT TIMES ─────────────────────────────────────────
+> *github doesn't lie — here's the telemetry*
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&hide_border=true&theme=transparent&title_color=c084fc&icon_color=a855f7&text_color=d4b8f0&bg_color=0a0a0f&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut-vertical&hide_border=true&theme=transparent&title_color=c084fc&text_color=d4b8f0&bg_color=0a0a0f&langs_count=8"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&hide_border=false&theme=default&title_color=1a1a1a&icon_color=c9a84c&text_color=333333&bg_color=f5f0e8&border_color=c9a84c&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=true&border_radius=6" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut&hide_border=false&theme=default&title_color=1a1a1a&text_color=333333&bg_color=f5f0e8&border_color=c9a84c&langs_count=8&border_radius=6" />
 
 </div>
 
-<!-- STREAK — styled to match -->
 <div align="center">
 
-<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&theme=transparent&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=c084fc&fire=f97316&currStreakLabel=c084fc&sideLabels=d4b8f0&dates=9d7ec4&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&hide_border=false&background=f5f0e8&stroke=c9a84c&ring=c9a84c&fire=e05c1a&currStreakLabel=1a1a1a&sideLabels=555555&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a&border_radius=6" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--         ACTIVITY GRAPH — github-readme-activity    -->
-<!--         Just a URL — zero setup needed             -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 📈 COMMIT PULSE
+## ── COMMIT LAP TIMES ─────────────────────────────────────
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhalidFinny&bg_color=0a0a0f&color=c084fc&line=7c3aed&point=f97316&area=true&area_color=2d1b69&hide_border=true&custom_title=Khalid's%20Commit%20Activity%20%E2%80%94%20Last%2031%20Days&title_color=c084fc&radius=6)](https://github.com/KhalidFinny)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhalidFinny&bg_color=f5f0e8&color=1a1a1a&line=c9a84c&point=e05c1a&area=true&area_color=ede8dc&hide_border=false&border_color=c9a84c&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days&title_color=1a1a1a&radius=6)](https://github.com/KhalidFinny)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--   PROFILE SUMMARY CARDS — vn7n24fzkq               -->
-<!--   Just paste URLs — zero setup needed              -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🃏 PROFILE CARDS
+## ── SECTOR CARDS ─────────────────────────────────────────
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhalidFinny&theme=2077"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhalidFinny&theme=github"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhalidFinny&theme=2077"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhalidFinny&theme=2077"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhalidFinny&theme=github"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhalidFinny&theme=github"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhalidFinny&theme=2077"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhalidFinny&theme=2077&utcOffset=7"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhalidFinny&theme=github"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhalidFinny&theme=github&utcOffset=7"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--         TROPHIES — fresh theme                     -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🏆 TROPHIES
+## ── PODIUM ───────────────────────────────────────────────
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=onestar&no-frame=true&no-bg=false&margin-w=6&margin-h=6&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              FEATURED PROJECTS                     -->
-<!-- ═══════════════════════════════════════════════════ -->
+## ── PIT WALL ─────────────────────────────────────────────
+> *two quotes. one from the court. one from the cockpit.*
 
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-> ⚠️ **Repo names below must match exactly what's on your GitHub.**  
-> Check: `github.com/KhalidFinny` — then replace `novaris` / `laskaraya` below if needed.
-
-[![DuitRapi](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=laskaraya&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=d4b8f0&border_color=7c3aed)](https://github.com/KhalidFinny/duitrapi)
-[![Novaris](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=novaris&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=d4b8f0&border_color=7c3aed)](https://github.com/KhalidFinny/Novaris-Project)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              MIKA HÄKKINEN QUOTE                   -->
-<!-- ═══════════════════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   " The way I drive, the way I handle a car,                 ║
-║     is an expression of my inner feelings. "                  ║
-║                                                               ║
-║                    — Mika Häkkinen  🏎️                        ║
-║                      2× F1 World Champion                     ║
-║                      The Flying Finn                          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🏀  " I try to make it look easy.                         ║
+║         But the behind-the-scenes stuff                      ║
+║         is the challenge. "                                  ║
+║                                                              ║
+║                     — Stephen Curry                          ║
+║                       4× NBA Champion  ·  GSW #30           ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   🏎️  " The way I drive, the way I handle a car,            ║
+║         is an expression of my inner feelings. "             ║
+║                                                              ║
+║                     — Mika Häkkinen                          ║
+║                       2× F1 World Champion  ·  The Flying Finn  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-*same energy, different medium — just replace "car" with "code"*
+*same energy — different arenas.*
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════ -->
-<!--              FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:2d1b69,70:1a0533,100:0a0a0f&height=130&section=footer&animation=fadeIn" />
+<!-- FOOTER — matches the warm cream header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f5f0e8,50:ede8dc,100:f5f0e8&height=100&section=footer&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
 
 <div align="center">
 
-*built with passion — and a dangerous amount of horsepower knowledge 🚗💨*
+*built with passion · and a dangerous amount of horsepower knowledge* 🚗💨
 
 </div>
