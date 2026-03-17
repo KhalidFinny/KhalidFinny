@@ -5,9 +5,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f5f0e8,50:ede8dc,100:f5f0e8&height=180&section=header&text=KHALID&fontSize=88&fontColor=1a1a1a&fontAlignY=55&desc=Full+Stack+·+Creative+·+Vroom+Vroom&descSize=15&descAlignY=78&descAlign=50&descColor=5a5a5a&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
 
 <!-- TYPING — light background, dark ink, gold accent -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=21&duration=3200&pause=900&color=1a1a1a&background=00000000&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%26+UI%2FUX+Designer;Videographer+·+Photographer+·+ML+Explorer;Applied+Informatics+%40+Polinema+%F0%9F%87%AE%F0%9F%87%A9;Play+like+you're+in+first.+Train+like+you're+in+second.;The+Flying+Finn+would+be+proud+%F0%9F%8F%8E%EF%B8%8F" alt="typing" />
-</div>
 
 <br/>
 
@@ -74,8 +71,6 @@
 > *github doesn't lie — here's the telemetry*
 
 <div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&hide_border=false&theme=default&title_color=1a1a1a&icon_color=c9a84c&text_color=333333&bg_color=f5f0e8&border_color=c9a84c&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=true&border_radius=6" />
 <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut&hide_border=false&theme=default&title_color=1a1a1a&text_color=333333&bg_color=f5f0e8&border_color=c9a84c&langs_count=8&border_radius=6" />
 
 </div>
