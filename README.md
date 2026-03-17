@@ -1,180 +1,229 @@
-<!-- CAPSULE RENDER ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=KHALID&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Dev+·+Creative+Mind+·+Car+Maniac&descAlignY=60&descAlign=50&animation=twinkling" />
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              ANIMATED HEADER                       -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=KHALID&fontSize=100&fontColor=c084fc&fontAlignY=55&desc=Full+Stack+·+Creative+·+Vroom+Vroom&descSize=18&descAlign=50&descAlignY=75&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              TYPING ANIMATION                      -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Khalid+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Videographer+%26+Photographer+%F0%9F%8E%AC;Car+enthusiast+first%2C+developer+second+%F0%9F%9A%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+%26+UI%2FUX+Designer;Videographer+%7C+Photographer+%7C+ML+Explorer;Applied+Informatics+%40+Polinema+%F0%9F%87%AE%F0%9F%87%A9;if+it+doesn't+look+good%2C+it+doesn't+ship.;The+Flying+Finn+would+be+proud+%F0%9F%8F%8E%EF%B8%8F" alt="typing" />
 </div>
 
 <br/>
 
-<!-- SOCIAL BADGES ROW -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              SOCIAL LINKS                          -->
+<!-- ═══════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-finny.pages.dev-302b63?style=for-the-badge)](https://finny.pages.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-ffiinn.yy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ffiinn.yy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhalidAtthoriq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KhalidAtthoriq)
-[![Email](https://img.shields.io/badge/Email-katthoriq@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katthoriq@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-finny.pages.dev-7c3aed?style=for-the-badge&labelColor=0a0a0f)](https://finny.pages.dev)
+[![Instagram](https://img.shields.io/badge/◈_IG-ffiinn.yy-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f)](https://instagram.com/ffiinn.yy)
+[![LinkedIn](https://img.shields.io/badge/◈_IN-KhalidAtthoriq-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/KhalidAtthoriq)
+[![Mail](https://img.shields.io/badge/◈_MAIL-katthoriq@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:katthoriq@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KhalidFinny&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=KhalidFinny&style=for-the-badge&color=7c3aed&label=VISITORS&abbreviated=true)
 
 </div>
 
+<br/>
+
 ---
 
-## ⚡ THE SYSTEM
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              SYSTEM INFO                           -->
+<!-- ═══════════════════════════════════════════════════ -->
 
+```javascript
+const khalid = {
+  name      : "Muhammad Khalid Atthoriq",
+  alias     : "KhalidFinny",
+  location  : "Malang, Indonesia 🇮🇩",
+  studying  : "Applied Informatics @ Polinema",
+  roles     : ["Full Stack Dev", "UI/UX Designer", "Videographer", "ML Explorer"],
+  obsession : "🚗 cars, always cars",
+  status    : "🟢 open to collabs & opportunities",
+  contact   : "katthoriq@gmail.com",
+  motto     : "if it doesn't look good, it doesn't ship."
+};
 ```
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   user     : Muhammad Khalid Atthoriq                │
-│   alias    : KhalidFinny                             │
-│   location : Malang, Indonesia 🇮🇩                    │
-│   studying : Applied Informatics @ Polinema          │
-│   mode     : [ building • designing • vroom vroom ]  │
-│   status   : 🟢 open for collabs                     │
-│                                                      │
-│   > "if it doesn't look good, it doesn't ship."     │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
 
 ---
 
-## 🛠️ SKILLS
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              SKILLS — skillicons.dev               -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- SKILL ICONS — beautiful icon grid from skillicons.dev -->
+## 🛠 THE STACK
+
 <div align="center">
 
-### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark&perline=7" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Frameworks & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,svelte,astro,tailwind,vite&theme=dark&perline=7" />
-</a>
+**LANGUAGES**
 
-### Database & Backend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=dark&perline=7" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark&perline=7"/></a>
 
-### Creative Suite & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,git,github,vscode&theme=dark&perline=7" />
-</a>
+</td>
+<td align="center" width="50%">
+
+**FRAMEWORKS**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,laravel,svelte,astro,tailwind,vite&theme=dark&perline=7"/></a>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**DATA & BACKEND**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,postgres,python&theme=dark&perline=7"/></a>
+
+</td>
+<td align="center">
+
+**CREATIVE & TOOLS**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,git,github,vscode&theme=dark&perline=7"/></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GITHUB STATS
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              GITHUB STATS                          -->
+<!--   github-readme-stats + donut layout (rare)        -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 📊 GITHUB DATA
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=percentile" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&hide_border=true&theme=transparent&title_color=c084fc&icon_color=a855f7&text_color=d4b8f0&bg_color=0a0a0f&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut-vertical&hide_border=true&theme=transparent&title_color=c084fc&text_color=d4b8f0&bg_color=0a0a0f&langs_count=8"/>
 
 </div>
 
+<!-- STREAK — styled to match -->
 <div align="center">
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
+<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&theme=transparent&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=c084fc&fire=f97316&currStreakLabel=c084fc&sideLabels=d4b8f0&dates=9d7ec4&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--         ACTIVITY GRAPH — github-readme-activity    -->
+<!--         Just a URL — zero setup needed             -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 📈 COMMIT PULSE
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhalidFinny&bg_color=0a0a0f&color=c084fc&line=7c3aed&point=f97316&area=true&area_color=2d1b69&hide_border=true&custom_title=Khalid's%20Commit%20Activity%20%E2%80%94%20Last%2031%20Days&title_color=c084fc&radius=6)](https://github.com/KhalidFinny)
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+<!-- ═══════════════════════════════════════════════════ -->
+<!--   PROFILE SUMMARY CARDS — vn7n24fzkq               -->
+<!--   Just paste URLs — zero setup needed              -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<!-- Snake animation — requires GitHub Actions setup (5 min). See note below. -->
+## 🃏 PROFILE CARDS
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhalidFinny/KhalidFinny/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhalidFinny/KhalidFinny/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://github.com/KhalidFinny/KhalidFinny/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhalidFinny&theme=2077"/>
 
-> 💡 **Activate the snake:** Create `.github/workflows/snake.yml` in this repo using **[Platane/snk](https://github.com/Platane/snk)** — takes about 5 minutes. It generates a snake that eats your contribution squares 🐍
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhalidFinny&theme=2077"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhalidFinny&theme=2077"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhalidFinny&theme=2077"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhalidFinny&theme=2077&utcOffset=7"/>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--         TROPHIES — fresh theme                     -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 ## 🏆 TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=onestar&no-frame=true&no-bg=false&margin-w=6&margin-h=6&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📁 FEATURED PROJECTS
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              FEATURED PROJECTS                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-[![Laskaraya](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=laskaraya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/KhalidFinny/laskaraya)
-[![SIREPANG](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=sirepang&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/KhalidFinny/sirepang)
+> ⚠️ **Repo names below must match exactly what's on your GitHub.**  
+> Check: `github.com/KhalidFinny` — then replace `novaris` / `laskaraya` below if needed.
+
+[![DuitRapi](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=laskaraya&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=d4b8f0&border_color=7c3aed)](https://github.com/KhalidFinny/duitrapi)
+[![Novaris](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=novaris&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=a855f7&text_color=d4b8f0&border_color=7c3aed)](https://github.com/KhalidFinny/Novaris-Project)
 
 </div>
 
 ---
 
-## 🎵 CURRENTLY VIBING TO
-
-<!-- 
-  SPOTIFY WIDGET — 3 easy options to pick from:
-
-  OPTION 1 (Easiest — no auth needed, shows recent tracks):
-  Deploy https://github.com/tthn0/Spotify-Readme to Vercel
-  Then use: ![Spotify](https://YOUR-DEPLOY.vercel.app/api?spin=true&scan=true&theme=dark)
-
-  OPTION 2 (Most beautiful — real-time now playing):
-  Deploy https://github.com/novatorem/nocturne to Vercel with Spotify OAuth
-  Then use: [![nocturne](https://YOUR-DEPLOY.vercel.app/api/spotify)](https://open.spotify.com)
-
-  OPTION 3 (GitHub Actions — updates every 5 min):
-  Follow https://github.com/lowlighter/metrics with music plugin
--->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              MIKA HÄKKINEN QUOTE                   -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-> 🎧 Deploy [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) or [novatorem/nocturne](https://github.com/novatorem/nocturne) to Vercel, then replace this block with your live Spotify widget image tag.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   " The way I drive, the way I handle a car,                 ║
+║     is an expression of my inner feelings. "                  ║
+║                                                               ║
+║                    — Mika Häkkinen  🏎️                        ║
+║                      2× F1 World Champion                     ║
+║                      The Flying Finn                          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+*same energy, different medium — just replace "car" with "code"*
 
 </div>
 
 ---
 
-## ✍️ DEV THOUGHT OF THE DAY
+<!-- ═══════════════════════════════════════════════════ -->
+<!--              FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:2d1b69,70:1a0533,100:0a0a0f&height=130&section=footer&animation=fadeIn" />
 
 <div align="center">
 
-[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🔝 TOP CONTRIBUTED REPOS
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=KhalidFinny&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-<!-- CAPSULE RENDER FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=twinkling" />
-
-<div align="center">
-
-*built with passion — and a healthy obsession with cars 🚗*
+*built with passion — and a dangerous amount of horsepower knowledge 🚗💨*
 
 </div>
