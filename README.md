@@ -1,153 +1,180 @@
+<!-- CAPSULE RENDER ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=KHALID&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Full+Stack+Dev+·+Creative+Mind+·+Car+Maniac&descAlignY=60&descAlign=50&animation=twinkling" />
+
+<!-- TYPING SVG -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Khalid+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Videographer+%26+Photographer+%F0%9F%8E%AC;Car+enthusiast+first%2C+developer+second+%F0%9F%9A%97" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- SOCIAL BADGES ROW -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-finny.pages.dev-302b63?style=for-the-badge)](https://finny.pages.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-ffiinn.yy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ffiinn.yy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KhalidAtthoriq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KhalidAtthoriq)
+[![Email](https://img.shields.io/badge/Email-katthoriq@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katthoriq@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KhalidFinny&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## ⚡ THE SYSTEM
 
 ```
-██╗  ██╗██╗  ██╗ █████╗ ██╗     ██╗██████╗
-██║ ██╔╝██║  ██║██╔══██╗██║     ██║██╔══██╗
-█████╔╝ ███████║███████║██║     ██║██║  ██║
-██╔═██╗ ██╔══██║██╔══██║██║     ██║██║  ██║
-██║  ██╗██║  ██║██║  ██║███████╗██║██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   user     : Muhammad Khalid Atthoriq                │
+│   alias    : KhalidFinny                             │
+│   location : Malang, Indonesia 🇮🇩                    │
+│   studying : Applied Informatics @ Polinema          │
+│   mode     : [ building • designing • vroom vroom ]  │
+│   status   : 🟢 open for collabs                     │
+│                                                      │
+│   > "if it doesn't look good, it doesn't ship."     │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
-</div>
-
 ---
 
+## 🛠️ SKILLS
+
+<!-- SKILL ICONS — beautiful icon grid from skillicons.dev -->
 <div align="center">
 
-### ≺ MUHAMMAD KHALID ATTHORIQ ≻
-**`College Student  ·  Creative Dev  ·  Car Fanatic`**
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark&perline=7" />
+</a>
 
-*Where creativity collides with code — and occasionally, tire smoke.*
+### Frameworks & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,svelte,astro,tailwind,vite&theme=dark&perline=7" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/─%20instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ffiinn.yy)
-[![LinkedIn](https://img.shields.io/badge/─%20linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KhalidAtthoriq)
-[![Email](https://img.shields.io/badge/─%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:katthoriq@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=KhalidFinny&icon=6&color=6)](https://visitcount.itsvg.in)
+### Database & Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=dark&perline=7" />
+</a>
 
-</div>
-
----
-
-## ◈ WHO AM I
-
-```yaml
-name       : Muhammad Khalid Atthoriq
-alias      : KhalidFinny
-status     : 🟢 available for collabs & opportunities
-based_in   : Indonesia
-passion    : [ frontend dev, visual design, videography, CARS ]
-current    : diving deep into the world of web & creative tech
-motto      : "if it doesn't look good, it doesn't ship"
-rpm        : 🚗 always redlining
-```
-
-> I'm not just building websites — I'm crafting **digital experiences**.  
-> By day: debugging and deploying. By night: editing reels and researching  
-> horsepower figures I'll never realistically need. 🏎️
-
----
-
-## ◈ THE STACK
-
-<div align="center">
-
-**⌁ LANGUAGES**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**⌁ FRAMEWORKS & TOOLS**
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**⌁ DATA & BACKEND**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**⌁ CREATIVE SUITE**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-**⌁ VERSION CONTROL**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Creative Suite & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,git,github,vscode&theme=dark&perline=7" />
+</a>
 
 </div>
 
 ---
 
-## ◈ GITHUB CHRONICLES
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=percentile" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&theme=tokyonight&hide_border=true" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center">
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
 
 </div>
 
 ---
 
-## ◈ TROPHIES
+## 🐍 CONTRIBUTION SNAKE
 
+<!-- Snake animation — requires GitHub Actions setup (5 min). See note below. -->
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KhalidFinny/KhalidFinny/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KhalidFinny/KhalidFinny/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://github.com/KhalidFinny/KhalidFinny/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> 💡 **Activate the snake:** Create `.github/workflows/snake.yml` in this repo using **[Platane/snk](https://github.com/Platane/snk)** — takes about 5 minutes. It generates a snake that eats your contribution squares 🐍
 
 </div>
 
 ---
 
-## ◈ TOP CONTRIBUTED REPOS
+## 🏆 TROPHIES
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=KhalidFinny&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## ◈ DEV THOUGHT OF THE DAY
+## 📁 FEATURED PROJECTS
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Laskaraya](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=laskaraya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/KhalidFinny/laskaraya)
+[![SIREPANG](https://github-readme-stats.vercel.app/api/pin/?username=KhalidFinny&repo=sirepang&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA)](https://github.com/KhalidFinny/sirepang)
 
 </div>
 
 ---
 
+## 🎵 CURRENTLY VIBING TO
+
+<!-- 
+  SPOTIFY WIDGET — 3 easy options to pick from:
+
+  OPTION 1 (Easiest — no auth needed, shows recent tracks):
+  Deploy https://github.com/tthn0/Spotify-Readme to Vercel
+  Then use: ![Spotify](https://YOUR-DEPLOY.vercel.app/api?spin=true&scan=true&theme=dark)
+
+  OPTION 2 (Most beautiful — real-time now playing):
+  Deploy https://github.com/novatorem/nocturne to Vercel with Spotify OAuth
+  Then use: [![nocturne](https://YOUR-DEPLOY.vercel.app/api/spotify)](https://open.spotify.com)
+
+  OPTION 3 (GitHub Actions — updates every 5 min):
+  Follow https://github.com/lowlighter/metrics with music plugin
+-->
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║   currently building something cool.             ║
-║   probably listening to something loud.          ║
-║   definitely thinking about cars.  🚗            ║
-╚══════════════════════════════════════════════════╝
-```
+> 🎧 Deploy [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) or [novatorem/nocturne](https://github.com/novatorem/nocturne) to Vercel, then replace this block with your live Spotify widget image tag.
 
-*thanks for stopping by — don't forget to leave a ⭐*
+</div>
+
+---
+
+## ✍️ DEV THOUGHT OF THE DAY
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🔝 TOP CONTRIBUTED REPOS
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=KhalidFinny&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+<!-- CAPSULE RENDER FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=twinkling" />
+
+<div align="center">
+
+*built with passion — and a healthy obsession with cars 🚗*
 
 </div>
