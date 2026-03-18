@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;family=Playfair+Display:ital,wght@0,700;1,400&amp;display=swap');
+      .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+      .serif { font-family: 'Playfair Display', Georgia, serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="320" fill="#f7f3ec"/>
+
+  <!-- Top header bar -->
+  <rect width="800" height="44" fill="#1a1a1a"/>
+  <!-- Gold top stripe -->
+  <rect width="800" height="3" fill="#c9a84c"/>
+  <!-- Gold bottom stripe on header -->
+  <rect y="41" width="800" height="3" fill="#c9a84c"/>
+
+  <!-- Header text left -->
+  <text x="24" y="27" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#c9a84c" letter-spacing="4">ENTRY № KHF-001 · SEASON 2025</text>
+  <!-- Header divider -->
+  <text x="400" y="27" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c9a84c44" text-anchor="middle">◆</text>
+  <!-- Header text right -->
+  <text x="776" y="27" font-family="'JetBrains Mono', monospace" font-size="10" fill="#888888" letter-spacing="3" text-anchor="end">POLINEMA CIRCUIT · MALANG, ID</text>
+
+  <!-- Left column block -->
+  <!-- Row 1: FULL NAME -->
+  <rect x="24" y="60" width="360" height="44" fill="none"/>
+  <text x="24" y="78" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">FULL NAME</text>
+  <text x="24" y="95" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#1a1a1a">Muhammad Khalid Atthoriq</text>
+  <rect x="24" y="104" width="352" height="0.5" fill="#1a1a1a" opacity="0.1"/>
+
+  <!-- Row 2: ALIAS -->
+  <text x="24" y="122" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">ALIAS</text>
+  <text x="24" y="139" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#c9a84c">KhalidFinny</text>
+  <rect x="24" y="148" width="352" height="0.5" fill="#1a1a1a" opacity="0.1"/>
+
+  <!-- Row 3: BASE -->
+  <text x="24" y="166" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">BASE</text>
+  <text x="24" y="183" font-family="'JetBrains Mono', monospace" font-size="13" fill="#1a1a1a">Malang, Indonesia</text>
+  <rect x="24" y="192" width="352" height="0.5" fill="#1a1a1a" opacity="0.1"/>
+
+  <!-- Row 4: TEAM -->
+  <text x="24" y="210" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">TEAM</text>
+  <text x="24" y="227" font-family="'JetBrains Mono', monospace" font-size="13" fill="#1a1a1a">Applied Informatics · Polinema</text>
+
+  <!-- Vertical divider -->
+  <rect x="400" y="60" width="1" height="192" fill="#c9a84c" opacity="0.3"/>
+
+  <!-- Right column block -->
+  <!-- Row 1: DISCIPLINES -->
+  <text x="424" y="78" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">DISCIPLINES</text>
+  <text x="424" y="95" font-family="'JetBrains Mono', monospace" font-size="13" fill="#1a1a1a">Dev · Design · Motion · ML</text>
+  <rect x="424" y="104" width="352" height="0.5" fill="#1a1a1a" opacity="0.1"/>
+
+  <!-- Row 2: OBSESSION -->
+  <text x="424" y="122" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">OBSESSION</text>
+  <text x="424" y="139" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c9a84c" font-weight="500">Horsepower &gt; Caffeine 🚗</text>
+  <rect x="424" y="148" width="352" height="0.5" fill="#1a1a1a" opacity="0.1"/>
+
+  <!-- Row 3: STATUS -->
+  <text x="424" y="166" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">STATUS</text>
+  <!-- Green dot -->
+  <circle cx="436" cy="179" r="5" fill="#3a8a5a"/>
+  <text x="448" y="183" font-family="'JetBrains Mono', monospace" font-size="13" fill="#3a8a5a">Open to Opportunities</text>
+  <rect x="424" y="192" width="352" height="0.5" fill="#1a1a1a" opacity="0.1"/>
+
+  <!-- Row 4: CONTACT -->
+  <text x="424" y="210" font-family="'JetBrains Mono', monospace" font-size="9" fill="#999999" letter-spacing="3">CONTACT</text>
+  <text x="424" y="227" font-family="'JetBrains Mono', monospace" font-size="13" fill="#1a1a1a">katthoriq@gmail.com</text>
+
+  <!-- Footer bar -->
+  <rect y="268" width="800" height="52" fill="#1a1a1a"/>
+  <rect y="268" width="800" height="1.5" fill="#c9a84c" opacity="0.5"/>
+
+  <!-- Footer: MOTTO label -->
+  <text x="24" y="288" font-family="'JetBrains Mono', monospace" font-size="8" fill="#c9a84c" letter-spacing="4">MOTTO</text>
+  <!-- Footer: motto text italic serif -->
+  <text x="24" y="308" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec">"if it doesn't look good, it doesn't ship."</text>
+
+  <!-- Outer border -->
+  <rect x="0.5" y="0.5" width="799" height="319" fill="none" stroke="#c9a84c" stroke-width="1" opacity="0.4"/>
+</svg>

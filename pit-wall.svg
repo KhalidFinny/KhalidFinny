@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+
+  <!-- Dark background -->
+  <rect width="800" height="280" fill="#1a1a1a"/>
+
+  <!-- Gold header bar -->
+  <rect width="800" height="44" fill="#c9a84c"/>
+  <!-- Header text -->
+  <text x="24" y="27" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a1a1a" letter-spacing="5">RADIO COMMS · TWO ARENAS, ONE ENERGY</text>
+  <text x="776" y="27" font-family="'JetBrains Mono', monospace" font-size="13" fill="#1a1a1a" text-anchor="end">🏀 × 🏎️</text>
+
+  <!-- Center divider -->
+  <rect x="399" y="44" width="1" height="196" fill="#ffffff" opacity="0.08"/>
+
+  <!-- LEFT QUOTE: Curry -->
+  <!-- Opening quote mark decoration -->
+  <text x="28" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#c9a84c" opacity="0.2" font-weight="700">"</text>
+
+  <!-- Quote text -->
+  <text x="32" y="102" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec" opacity="0.95">I try to make it look easy.</text>
+  <text x="32" y="122" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec" opacity="0.95">But the behind-the-scenes</text>
+  <text x="32" y="142" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec" opacity="0.95">stuff is the challenge.</text>
+
+  <!-- Gold divider line -->
+  <rect x="32" y="158" width="32" height="1.5" fill="#c9a84c"/>
+
+  <!-- Attribution -->
+  <text x="32" y="178" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#c9a84c" letter-spacing="2">Stephen Curry</text>
+  <text x="32" y="196" font-family="'JetBrains Mono', monospace" font-size="9" fill="#ffffff" opacity="0.35" letter-spacing="1">4× NBA Champion · GSW #30</text>
+
+  <!-- RIGHT QUOTE: Häkkinen -->
+  <text x="424" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#c9a84c" opacity="0.2" font-weight="700">"</text>
+
+  <!-- Quote text -->
+  <text x="428" y="102" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec" opacity="0.95">The way I drive, the way</text>
+  <text x="428" y="122" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec" opacity="0.95">I handle a car, is an expression</text>
+  <text x="428" y="142" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#f7f3ec" opacity="0.95">of my inner feelings.</text>
+
+  <!-- Gold divider line -->
+  <rect x="428" y="158" width="32" height="1.5" fill="#c9a84c"/>
+
+  <!-- Attribution -->
+  <text x="428" y="178" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#c9a84c" letter-spacing="2">Mika Häkkinen</text>
+  <text x="428" y="196" font-family="'JetBrains Mono', monospace" font-size="9" fill="#ffffff" opacity="0.35" letter-spacing="1">2× F1 World Champion · The Flying Finn</text>
+
+  <!-- Footer bar -->
+  <rect y="240" width="800" height="40" fill="#111111"/>
+  <rect y="240" width="800" height="1" fill="#c9a84c" opacity="0.3"/>
+
+  <!-- Footer text -->
+  <text x="24" y="264" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#ffffff" opacity="0.3">same energy — different arenas.</text>
+  <text x="776" y="264" font-family="'JetBrains Mono', monospace" font-size="9" fill="#c9a84c" letter-spacing="3" text-anchor="end">KHALID · 2025</text>
+
+  <!-- Outer border -->
+  <rect x="0.5" y="0.5" width="799" height="279" fill="none" stroke="#c9a84c" stroke-width="1" opacity="0.25"/>
+</svg>
