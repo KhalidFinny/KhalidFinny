@@ -1,21 +1,21 @@
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<!--   CAPSULE RENDER — cylinder type, warm cream/white/gold   -->
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--                        HEADER                          -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f5f0e8,50:ede8dc,100:f5f0e8&height=180&section=header&text=KHALID&fontSize=88&fontColor=1a1a1a&fontAlignY=55&desc=Full+Stack+·+Creative+·+Vroom+Vroom&descSize=15&descAlignY=78&descAlign=50&descColor=5a5a5a&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a1a,50:2c2c2c,100:1a1a1a&height=200&section=header&text=KHALID&fontSize=96&fontColor=f7f3ec&fontAlignY=50&desc=Full+Stack+·+Creative+·+Vroom+Vroom&descSize=14&descAlignY=72&descAlign=50&descColor=c9a84c&animation=fadeIn&stroke=c9a84c&strokeWidth=2" />
 
-<!-- TYPING — light background, dark ink, gold accent -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3200&pause=900&color=1a1a1a&background=00000000&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%26+UI%2FUX+Designer;Videographer+·+Photographer+·+ML+Explorer;Applied+Informatics+%40+Polinema+🇮🇩;Play+like+you're+in+first.+Train+like+you're+in+second.;The+Flying+Finn+would+be+proud+🏎️" alt="typing" />
+</div>
 
 <br/>
 
----
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈%20PORTFOLIO-finny.pages.dev-1a1a1a?style=flat-square&labelColor=c9a84c&color=1a1a1a)](https://finny.pages.dev)&nbsp;
-[![Instagram](https://img.shields.io/badge/◈%20INSTAGRAM-ffiinn.yy-1a1a1a?style=flat-square&labelColor=e8d5b0&color=1a1a1a)](https://instagram.com/ffiinn.yy)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈%20LINKEDIN-KhalidAtthoriq-1a1a1a?style=flat-square&labelColor=e8d5b0&color=1a1a1a)](https://linkedin.com/in/KhalidAtthoriq)&nbsp;
-[![Email](https://img.shields.io/badge/◈%20EMAIL-katthoriq@gmail.com-1a1a1a?style=flat-square&labelColor=e8d5b0&color=1a1a1a)](mailto:katthoriq@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-finny.pages.dev-f7f3ec?style=flat-square&labelColor=1a1a1a)](https://finny.pages.dev)&nbsp;
+[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-ffiinn.yy-f7f3ec?style=flat-square&labelColor=1a1a1a)](https://instagram.com/ffiinn.yy)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-KhalidAtthoriq-f7f3ec?style=flat-square&labelColor=1a1a1a)](https://linkedin.com/in/KhalidAtthoriq)&nbsp;
+[![Email](https://img.shields.io/badge/◈_EMAIL-katthoriq@gmail.com-f7f3ec?style=flat-square&labelColor=1a1a1a)](mailto:katthoriq@gmail.com)
 
 ![Visitors](https://komarev.com/ghpvc/?username=KhalidFinny&style=flat-square&color=c9a84c&label=VISITORS&abbreviated=true)
 
@@ -23,77 +23,109 @@
 
 ---
 
-## ── DRIVER PROFILE ───────────────────────────────────────
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            01 ── DRIVER PROFILE                        -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>01</sub> ─────────────────────── DRIVER PROFILE ───────────────────────
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   № 01   Muhammad Khalid Atthoriq  ·  alias: KhalidFinny   │
-│                                                             │
-│   BASE    →  Malang, Indonesia 🇮🇩                          │
-│   SEAT    →  Applied Informatics, Polinema                  │
-│   TEAM    →  Frontend · Backend · Design · Motion           │
-│   RPM     →  always at redline                              │
-│   STATUS  →  🟡  qualifying — open to opportunities         │
-│                                                             │
-│   CONTACT →  katthoriq@gmail.com                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════╦══════════════════════════════════╗
+║  ENTRY № KHF-001 · SEASON 2025  ║  POLINEMA CIRCUIT · MALANG, ID  ║
+╠══════════════════════════════════╩══════════════════════════════════╣
+║                                                                     ║
+║  FULL NAME  ·  Muhammad Khalid Atthoriq                             ║
+║  ALIAS      ·  KhalidFinny                                          ║
+║  BASE       ·  Malang, Indonesia 🇮🇩                                ║
+║  TEAM       ·  Applied Informatics · Polinema                       ║
+║                                                                     ║
+╠═══════════════════════════════╦═════════════════════════════════════╣
+║  DISCIPLINES                  ║  Dev · Design · Motion · ML        ║
+║  OBSESSION                    ║  🚗 Horsepower > Caffeine           ║
+║  STATUS                       ║  🟢 Open to Opportunities           ║
+║  CONTACT                      ║  katthoriq@gmail.com               ║
+╠═══════════════════════════════╩═════════════════════════════════════╣
+║                                                                     ║
+║  MOTTO  ·  "if it doesn't look good, it doesn't ship."             ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ── THE STACK ────────────────────────────────────────────
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            02 ── THE STACK                              -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>02</sub> ──────────────────────────── THE STACK ────────────────────────
 
 <div align="center">
 
-**LANGUAGES**
+<table><tr>
+<td align="center" valign="top" width="50%">
 
+**LANGUAGES**
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=light&perline=7"/></a>
 
 **FRAMEWORKS & BUILD**
-
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,laravel,svelte,astro,tailwind,vite&theme=light&perline=7"/></a>
 
-**DATA**
+</td>
+<td align="center" valign="top" width="50%">
 
+**DATA & BACKEND**
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,postgres&theme=light&perline=7"/></a>
 
 **CREATIVE & TOOLS**
-
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,git,github,vscode&theme=light&perline=7"/></a>
 
-</div>
-
----
-
-## ── SPLIT TIMES ─────────────────────────────────────────
-> *github doesn't lie — here's the telemetry*
-
-<div align="center">
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut&hide_border=false&theme=default&title_color=1a1a1a&text_color=333333&bg_color=f5f0e8&border_color=c9a84c&langs_count=8&border_radius=6" />
-
-</div>
-
-<div align="center">
-
-<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&hide_border=false&background=f5f0e8&stroke=c9a84c&ring=c9a84c&fire=e05c1a&currStreakLabel=1a1a1a&sideLabels=555555&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a&border_radius=6" />
+</td>
+</tr></table>
 
 </div>
 
 ---
 
-## ── COMMIT LAP TIMES ─────────────────────────────────────
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            03 ── SPLIT TIMES                            -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>03</sub> ──────────────────── SPLIT TIMES · GITHUB STATS ───────────────
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhalidFinny&bg_color=f5f0e8&color=1a1a1a&line=c9a84c&point=e05c1a&area=true&area_color=ede8dc&hide_border=false&border_color=c9a84c&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days&title_color=1a1a1a&radius=6)](https://github.com/KhalidFinny)
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=KhalidFinny&show_icons=true&hide_border=false&theme=default&title_color=1a1a1a&icon_color=c9a84c&text_color=333333&bg_color=ffffff&border_color=e8e0d0&rank_icon=percentile&include_all_commits=true&border_radius=0" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidFinny&layout=donut&hide_border=false&theme=default&title_color=1a1a1a&text_color=333333&bg_color=ffffff&border_color=e8e0d0&langs_count=8&border_radius=0" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=KhalidFinny&hide_border=false&background=ffffff&stroke=c9a84c&ring=c9a84c&fire=e05c1a&currStreakLabel=1a1a1a&sideLabels=555555&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a&border_radius=0" />
 
 </div>
 
 ---
 
-## ── SECTOR CARDS ─────────────────────────────────────────
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            04 ── COMMIT LAP TIMES                       -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>04</sub> ─────────────────────── COMMIT LAP TIMES ──────────────────────
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhalidFinny&bg_color=ffffff&color=1a1a1a&line=c9a84c&point=e05c1a&area=true&area_color=f5f0e8&hide_border=false&border_color=e8e0d0&custom_title=Activity%20Graph%20—%20Last%2031%20Days&title_color=1a1a1a&radius=0)](https://github.com/KhalidFinny)
+
+</div>
+
+---
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            05 ── SECTOR CARDS                           -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>05</sub> ──────────────────────── SECTOR CARDS ──────────────────────────
 
 <div align="center">
 
@@ -109,55 +141,57 @@
 
 ---
 
-## ── PODIUM ───────────────────────────────────────────────
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            06 ── PODIUM                                 -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>06</sub> ─────────────────────────── PODIUM ─────────────────────────────
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=flat&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KhalidFinny&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## ── PIT WALL ─────────────────────────────────────────────
-> *two quotes. one from the court. one from the cockpit.*
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!--            07 ── PIT WALL                               -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+## <sub>07</sub> ──────────────────────────── PIT WALL ───────────────────────────
+> *RADIO COMMS · TWO ARENAS, ONE ENERGY*
 
 <br/>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🏀  " I try to make it look easy.                         ║
-║         But the behind-the-scenes stuff                      ║
-║         is the challenge. "                                  ║
-║                                                              ║
-║                     — Stephen Curry                          ║
-║                       4× NBA Champion  ·  GSW #30           ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   🏎️  " The way I drive, the way I handle a car,            ║
-║         is an expression of my inner feelings. "             ║
-║                                                              ║
-║                     — Mika Häkkinen                          ║
-║                       2× F1 World Champion  ·  The Flying Finn  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────┬──────────────────────────────────┐
+│                                 │                                  │
+│  ❝ I try to make it look easy.  │  ❝ The way I drive, the way I   │
+│    But the behind-the-scenes    │    handle a car, is an           │
+│    stuff is the challenge. ❞    │    expression of my              │
+│                                 │    inner feelings. ❞             │
+│  ── Stephen Curry               │                                  │
+│     4× NBA Champion             │  ── Mika Häkkinen                │
+│     Golden State Warriors #30   │     2× F1 World Champion         │
+│     🏀                          │     The Flying Finn  🏎️          │
+│                                 │                                  │
+├─────────────────────────────────┴──────────────────────────────────┤
+│          same energy — different arenas.           KHALID · 2025   │
+└────────────────────────────────────────────────────────────────────┘
 ```
-
-*same energy — different arenas.*
 
 </div>
 
 ---
 
-<!-- FOOTER — matches the warm cream header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f5f0e8,50:ede8dc,100:f5f0e8&height=100&section=footer&animation=fadeIn&stroke=c9a84c&strokeWidth=1" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a1a,50:2c2c2c,100:1a1a1a&height=80&section=footer&animation=fadeIn&stroke=c9a84c&strokeWidth=2" />
 
 <div align="center">
 
-*built with passion · and a dangerous amount of horsepower knowledge* 🚗💨
+*built with passion — and a dangerous amount of horsepower knowledge* 🚗💨
 
 </div>
